@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>404 - Page Not Found</title>
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
+  <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+  <style>
+    .error-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      padding: 2rem;
+    }
+    .error-code {
+      font-size: 6rem;
+      font-weight: bold;
+      margin: 0;
+      color: var(--color-accent, #ff6b6b);
+    }
+    .error-message {
+      font-size: 1.5rem;
+      margin: 1rem 0;
+    }
+    .error-description {
+      color: var(--color-text-secondary, #666);
+      margin-bottom: 2rem;
+    }
+    .error-links {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+  </style>
+</head>
+<body>
+  <div class="error-container">
+    <h1 class="error-code">404</h1>
+    <h2 class="error-message">Page Not Found</h2>
+    <p class="error-description">The page you're looking for doesn't exist.</p>
+    <div class="error-links">
+      <a class="btn btn--accent" href="/">Go Home</a>
+    </div>
+  </div>
+</body>
+</html>

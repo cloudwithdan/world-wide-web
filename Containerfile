@@ -3,6 +3,8 @@ FROM docker.io/nginxinc/nginx-unprivileged:stable-alpine
 
 # Copy nginx configuration
 COPY nginx/nginx.conf /etc/nginx/conf.d/default.conf
+COPY nginx/50x.html /usr/share/nginx/html/50x.html
+COPY nginx/404.html /usr/share/nginx/html/404.html
 
 # Copy static files (main site)
 COPY index.html /usr/share/nginx/html/
