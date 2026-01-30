@@ -1,0 +1,7 @@
+#Why are you here?
+#Perhaps you want humans.txt
+User-agent: *
+Allow: /
+
+User-Agent: *
+Disallow: /humans.txt

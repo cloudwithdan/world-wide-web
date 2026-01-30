@@ -1,0 +1,91 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+This is a signed summary of relevant cryptographic information for meskio.
+The latest version of this file is always located at:
+  https://cloudwithdan.com/crypto.txt
+
+This information is current as of Tuesday Feb 20, 2024.
+
+Contact
+=======
+
+email:  me@cloudwithdan.com
+web:    https://cloudwithdan.com/
+irc:    cloudwithdan @ irc.libera.chat
+                       irc.anonops.com
+
+OpenPGP key
+===========
+
+pub   rsa3072 2024-02-20 [SC]
+      388F6DE0BFD7F0AAA4160B226FC055E2B6F1A362
+uid                      Daniel Nikoloski <me@cloudwithdan.com>
+
+
+The latest up to date key including signatures can be found at:
+   https://cloudwithdan.com/key.asc
+
+
+Signal
+======
+
+
+SSH public key
+==============
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG6fCAqlR2Q/UId04yePc/BN/YEewoN4mUPHAxRTcjKI nikoloskid
+
+
+Bitcoin
+=======
+
+My public bitcoin address is:
+3HJwR8jGTU8iAUrAxVLQXVDfMH2WQp5da7
+
+You can request a private one for you, and I encourage you to do it.
+
+                    _____|\
+               _.--| SSt |:
+              <____|.----||
+                     .---''---,
+                      ;..__..'    _...
+                    ,'/  ;|/..--''    \
+                  ,'_/.-/':            :
+             _..-'''/  /  |  \    \   _|/|
+            \      /-./_ \;   \    \,;'   \
+            ,\    / \:  `:\    \   //    `:`.
+          ,'  \  /-._;   | :    : ::    ,.   .
+        ,'     ::   /`-._| |    | || ' :  `.`.)
+     _,'       |;._:: |  | |    | `|   :    `'
+   ,'   `.     /   |`-:_ ; |    |  |  : \
+   `--.   )   /|-._:    :          |   \ \
+      /  /   :_|   ;`-._;   __..--';    : :
+     /  (    ;|;-./_  _/.-:'o |   /     ' |
+    /  , \._/_/_./--''/_|:|___|_,'        |
+   :  /   `'-'--'----'---------'          |
+   | :     O ._O   O_. O ._O   O_.      ; ;
+   : `.      //    //    //    //     ,' /
+ ~~~`.______//____//____//____//_______,'~
+           //    //~   //    //
+    ~~   _//   _//   _// ~ _//     ~
+  ~     / /   / /   / /   / /  ~      ~~
+       ~~~   ~~~   ~~~   ~~~
+                    Set for sailing.
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEs7M6f/ZpXzXMAQR+Urj1rJei2oYFAmBwfLcACgkQUrj1rJei
+2oYihQ/8DgPA+zQSr9xEP99BEEvd+DcOy6vCM+ZOrTsIAdy3V1bo7l0aeCNNTXJp
+vX5daa4gxX9YvWKaGFoTBtkxGgz4nfOxDAslzxnnV7RnI7tZ2V2RmIUskiCw/J1H
+0NBcthlDcQUu7BfSKhYdNUvuoa6d+J8QXfywnWhkdOp68Xe6KFhLAJe7UmMZCIne
+EDBFp3lx6g+AtrkKjt81ig1tRrK1GL2a5qI+q8Ptgrr3YrGTvsfPF+zJJVq+lqAT
+/tSK/MIxcpWvwtgYjCnZmBkl2DqAGUIzkoYc9+Tfc1rO0QztXSMdkVgah5rWitxS
+2x8K3PKXruql1tvYHFXH1mjF5686Yq5tqDy3i6K1OBKrtjwyLiD10wwJilMbtV1b
+H2BFVDGODGA1FpRT5I7Vs+fmG7MIkvIevkoUbDWROjDhmRiWEPhlt3C2c3QmvsGV
+K4hS4uec9STC8kuyrYOQvK4xuHgfMqisQvYK9mVgNK5ARaJE991aG4JwsHkKQNtW
+9A5L98dQQgdTY734/ALWXi/+lyTV/GdIbUbunKCVygd7Hv/5rCpq7lTF/BKGuY/m
+4W+izoI9b51RgJqXD/KIRGQv7LuaKykIOQTkjnk2aIz6n+2HmmagyLKkT3cuJTSe
+tMtkIQdOHUM33gMtkryCfUyuRA6hkSLglWksY0Et8XJEchjVORQ=
+=koAK
+-----END PGP SIGNATURE-----
