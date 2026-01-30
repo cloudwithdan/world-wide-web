@@ -1,6 +1,9 @@
 # nginx image
 FROM docker.io/nginxinc/nginx-unprivileged:stable-alpine
 
+# Copy nginx configuration
+COPY nginx/nginx.conf /etc/nginx/conf.d/default.conf
+
 # Copy static files (main site)
 COPY index.html /usr/share/nginx/html/
 COPY uses/index.html /usr/share/nginx/html/uses/index.html
