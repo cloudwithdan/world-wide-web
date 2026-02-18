@@ -16,6 +16,7 @@ COPY static/crypto.txt /usr/share/nginx/html/
 COPY static/favicon.ico /usr/share/nginx/html/
 COPY static/favicon.svg /usr/share/nginx/html/
 COPY static/ /usr/share/nginx/html/static/
+COPY static/sitemap.xml /usr/share/nginx/html/
 
 # Expose port 8080
 EXPOSE 8080
